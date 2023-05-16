@@ -233,12 +233,11 @@ return [
         ],
 
         [
-            'text'       => 'Portofolio',
-            'route'      => 'adminlte.page',
+            'text'       => 'TUBES',
+            'route'      => 'tubes.index',
             'icon'      => 'far fa-fw fa-file',
             //'roles'     => ['reviewer', 'committee','author'],
         ],
-
 
         [
             'text'       => 'User Management',
