@@ -1,8 +1,8 @@
 # Tugas Akhir Aplikasi Teknologi dan Jaringan Kelompok 7
-### Anggota 1
-Nama    : Krisna Dwi Nurikhsani
+### Anggota 1                                        ### Anggota 2
+Nama    : Krisna Dwi Nurikhsani                      Nama    :
 
-NIM     : 2008610
+NIM     : 2008610                                    NIM     :
 
 ### Anggota 2
 Nama    : Muhammad Rizaldi Setiawan
