@@ -31,17 +31,16 @@ NIM     : 2003466
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Proyek pembuatan web pengawasan dosen pembimbing sebagai supervisor adalah sebuah inisiatif untuk mengembangkan sebuah platform online yang memfasilitasi dan mempermudah proses pengawasan dosen pembimbing terhadap mahasiswa yang sedang melakukan tugas akhir, penelitian, atau proyek lainnya. Deskripsi proyek ini meliputi beberapa fitur dan fungsi yang akan ada dalam web pengawasan tersebut:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Web ini akan memungkinkan dosen pembimbing untuk mengelola daftar mahasiswa yang menjadi tanggung jawabnya. Dosen pembimbing dapat menambahkan, menghapus, atau memperbarui profil mahasiswa, termasuk informasi kontak, topik penelitian, dan kemajuan yang telah dicapai.
+- Web pengawasan akan memberikan dosen pembimbing akses terhadap kemajuan yang telah dicapai oleh mahasiswa. 
+- Platform ini akan menyediakan fitur komunikasi yang memungkinkan dosen pembimbing dan mahasiswa untuk berinteraksi secara langsung, baik melalui pesan teks, email, atau ruang diskusi khusus.
+- Web ini akan menyediakan fungsi untuk menjadwalkan pertemuan antara dosen pembimbing dan mahasiswa. Dosen pembimbing dapat mengatur jadwal ketersediaan mereka dan mahasiswa dapat memilih waktu yang sesuai untuk bertemu.
+- Web pengawasan akan memiliki sistem penyimpanan dokumen yang aman dan terorganisir. Dosen pembimbing dan mahasiswa dapat mengunggah dan mengunduh dokumen terkait tugas akhir, jurnal, artikel, atau file lain yang berkaitan dengan proyek yang sedang dikerjakan.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+Proyek ini akan memberikan manfaat signifikan bagi dosen pembimbing dan mahasiswa. Dosen pembimbing dapat melacak kemajuan mahasiswa dengan lebih efisien, memberikan umpan balik secara real-time, dan memudahkan koordinasi dalam menjalankan proyek. Sementara itu, mahasiswa akan mendapatkan bimbingan yang lebih baik, dapat berkomunikasi dengan dosen pembimbing dengan mudah, serta memiliki akses yang mudah ke sumber daya yang relevan.
 
 ## Learning Laravel
 
