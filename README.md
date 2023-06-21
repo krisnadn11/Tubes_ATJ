@@ -2,10 +2,10 @@
 
 ## Sistem Pengawasan Dosen Pembimbing sebagai Supervisor
 
-### Anggota 1                                        ### Anggota 2
-Nama    : Krisna Dwi Nurikhsani                      Nama    :
+### Anggota 1
+Nama    : Krisna Dwi Nurikhsani
 
-NIM     : 2008610                                    NIM     :
+NIM     : 2008610
 
 ### Anggota 2
 Nama    : Muhammad Rizaldi Setiawan
