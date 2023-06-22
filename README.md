@@ -1,4 +1,7 @@
 # Tugas Akhir Aplikasi Teknologi dan Jaringan Kelompok 7
+<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%20123.jpg" alt="NODE 123" width="771" height="400"><br>
+  <figcaption> Disusun untuk memenuhi UAS Mata Kuliah Sistem Tertanam dan Internet of Things</figcaption>
+
 
 ## Sistem Pengawasan Dosen Pembimbing sebagai Supervisor
 
