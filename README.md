@@ -1,4 +1,6 @@
 # Tugas Akhir Aplikasi Teknologi dan Jaringan Kelompok 7
+<img src="[[https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%20123.jpg](https://github.com/krisnadn11/Tubes_ATJ/blob/main/Layout.jpg)](https://github.com/krisnadn11/Tubes_ATJ/blob/main/Layout.jpg)" alt="Layout atau Tampilan Web" width="771" height="400"><br>
+
 
 ## Sistem Pengawasan Dosen Pembimbing sebagai Supervisor
 
