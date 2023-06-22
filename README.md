@@ -1,4 +1,7 @@
 # Tugas Akhir Aplikasi Teknologi dan Jaringan Kelompok 7
+img src="https://github.com/krisnadn11/Tubes_ATJ/blob/main/Layout.jpg" alt="Layout" width="771" height="400"><br>
+  <figcaption> Disusun untuk memenuhi UAS Mata Kuliah Aplikasi Teknologi Jaringan</figcaption>
+
 
 ## Sistem Pengawasan Dosen Pembimbing sebagai Supervisor
 
